@@ -1,2 +1,1 @@
-# getting-rusty
- A simple "Hello World" written in Rust
+I have no clue what Im doing
